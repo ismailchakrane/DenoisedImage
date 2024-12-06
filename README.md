@@ -4,7 +4,8 @@ This notebook provides an implementation of an image denoising process using the
 
 This notebook was developed as part of a practical assignment in an academic Master's degree program. The objective is to apply the diffusion model approach for denoising images and understand the practical implementation of such models.
 
+## Setup
 
-## Google Colab Setup:
+### Google Colab 
 
 The notebook is designed to be run directly in Google Colab. Simply upload the notebook and run the cells to execute the denoising process. Make sure you have access to a GPU runtime for faster computations (Runtime ➔ Change runtime type ➔ Hardware accelerator ➔ GPU).
