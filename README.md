@@ -2,7 +2,7 @@
 
 This notebook provides an implementation of an image denoising process using the diffusion model approach. The key idea of this method is to progressively remove noise from an image. Specifically, this implementation uses a U-Net architecture trained to predict the noise added at each step of the diffusion process.
 
-This notebook was developed as part of a practical assignment in an academic Master's degree program. The objective is to apply the diffusion model approach for denoising images and understand the practical implementation of such models.
+This notebook was developed as part of a practical assignment in my academic Master's degree program at Claude Bernard University Lyon 1. The objective is to apply the diffusion model approach for denoising images and understand the practical implementation of such models.
 
 ## Setup
 
